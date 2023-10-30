@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; University of Toronto Japan Network</title>
+	<atom:link href="https://uoftjn.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uoftjn.com</link>
+	<description>University of Toronto Japan Network - トロント大学 日本人 バイリンガル 学生 ネットワーク</description>
+	<lastBuildDate>Sat, 27 Oct 2018 23:41:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/uoftjn.com/wp-content/uploads/2018/01/cropped-UTJNlogo-e1515796171340.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Uncategorized &#8211; University of Toronto Japan Network</title>
+	<link>https://uoftjn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">140885522</site>	<item>
+		<title>記事募集中！Any writers are welcomed!</title>
+		<link>https://uoftjn.com/2018/10/27/%e8%a8%98%e4%ba%8b%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81any-writers-are-welcomed/</link>
+					<comments>https://uoftjn.com/2018/10/27/%e8%a8%98%e4%ba%8b%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81any-writers-are-welcomed/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 27 Oct 2018 23:35:35 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://uoftjn.com/?p=2169</guid>
+
+					<description><![CDATA[トロントニアンズは現在記事を募集しております！ &#160; 自分が学んで為になった、面白かった事を他の学生達に広めたいそこのあなた！ 一味違う経験をしたことがあるトロント大学生そこのあなた！ トロントニアンズではそんな学生達が記事等をひけらかせる場所です。 貴重なインターン経験談をカジュアルに書いたり、クラスで学んだ明日から使えるノウハウをアカデミカルに書いたり、内容やフォーマットは様々です。 是非一度でも「書いてみたいけど何をどう書けばいいかわからない。」、「書いたけどこれでもいいの？」と思ったら気軽にuoftjn@gmail.com か 平井奏太朗（Sotaro Hirai) にメッセージをください。できる限りのサポートはします！ 応募お待ちしています！ Anyone who wants to or has an article is welcomed to submit! If you want to share your valuable and interesting experiences or  knowledge, this is the place for you! Articles could be about anything in any format<a class="moretag" href="https://uoftjn.com/2018/10/27/%e8%a8%98%e4%ba%8b%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81any-writers-are-welcomed/"> Read more&#8230;</a>]]></description>
+		
+					<wfw:commentRss>https://uoftjn.com/2018/10/27/%e8%a8%98%e4%ba%8b%e5%8b%9f%e9%9b%86%e4%b8%ad%ef%bc%81any-writers-are-welcomed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2169</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 38/41 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+
+Served from: uoftjn.com @ 2022-11-24 23:50:12 by W3 Total Cache
+-->

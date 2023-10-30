@@ -1,0 +1,5 @@
+Sitemap: https://uoftjn.com/sitemap.xml
+Sitemap: https://uoftjn.com/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+<sitemap>
+<loc>
+https://climate.nasa.gov/sitemaps/content_pages_sitemap.xml
+</loc>
+</sitemap>
+<sitemap>
+<loc>
+https://climate.nasa.gov/sitemaps/news_items_sitemap.xml
+</loc>
+</sitemap>
+<sitemap>
+<loc>
+https://climate.nasa.gov/sitemaps/resources_sitemap.xml
+</loc>
+</sitemap>
+<sitemap>
+<loc>
+https://climate.nasa.gov/sitemaps/faq_items_sitemap.xml
+</loc>
+</sitemap>
+<sitemap>
+<loc>
+https://climate.nasa.gov/sitemaps/people_sitemap.xml
+</loc>
+</sitemap>
+</sitemapindex>

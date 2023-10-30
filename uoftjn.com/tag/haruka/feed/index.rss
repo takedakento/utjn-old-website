@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Haruka &#8211; University of Toronto Japan Network</title>
+	<atom:link href="https://uoftjn.com/tag/haruka/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uoftjn.com</link>
+	<description>University of Toronto Japan Network - トロント大学 日本人 バイリンガル 学生 ネットワーク</description>
+	<lastBuildDate>Tue, 06 Mar 2018 20:04:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/uoftjn.com/wp-content/uploads/2018/01/cropped-UTJNlogo-e1515796171340.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Haruka &#8211; University of Toronto Japan Network</title>
+	<link>https://uoftjn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">140885522</site>	<item>
+		<title>レースは数で編む ~数論について~</title>
+		<link>https://uoftjn.com/2018/01/19/primenumber/</link>
+					<comments>https://uoftjn.com/2018/01/19/primenumber/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 19 Jan 2018 03:51:55 +0000</pubDate>
+				<category><![CDATA[Academia]]></category>
+		<category><![CDATA[Community Academia]]></category>
+		<category><![CDATA[Haruka]]></category>
+		<guid isPermaLink="false">https://uoftjn.com/?p=1340</guid>
+
+					<description><![CDATA[By Haruka Kuroo 数論という学問には大きく四つの分野があり、私が興味を持っているのは特に初等整数論という分野です。数論は永い間実用性がないと言われ、近年暗号化などに応用され始めました。私は数論の実用性には全く興味がなく、むしろずっと実用性がないままでいいと思っていましたが、今回は持論よりも数論の魅力について書きたいと思います。 &#160; 人が数論と聞いて最初に思い浮かべるのは、素数かも知れません（素数とは、１と自分でしか割り切れない数のことです（例: ２, ３, ５, ７, …） ）。確かに数論では素数の研究がさかんです。素数は数直線上に不規則に発生し、数が大きくなればなるほどそれが素数かそうでないかの判断が難しくなります。素数もどきもたくさんでてきます（実は９や１５は素数もどきに分類されます）。 &#160; ある数が素数かどうか知るためには、その数と問答をします。その数が割り切れる数、割り切れない数、公式によって関係性が生まれる数、何とも交わらない数。問答をして、その数のことをよく知って、はじめてそれが素数かそうでないかが分かります。だから素数を見つけたときの喜びはとても大きいんです。よく知った友達の名前が、やっとわかったような感覚です。 &#160; ここで、ある素数（例えば５）が素数である証明をするのは作業的であまり美しくないので、かわりに素数が無限に存在するという証明をします。一見難しそうに聞こえますが、証明自体は実にシンプルでかつ美しいです。（字が読みにくいのはご愛嬌ということで） &#160; 無限に広がる数の世界でどれが素数なのか見分ける方法はないけど、無限個存在するということが確かであることに安心します。 今までは素数の神秘について話してきましたが、ここで私の一番好きな合成数を紹介します（すべての数の中で、素数でないものは合成数と呼ばれます）。 &#160; ６です &#160; ６は合成数の中でも、「完全数」という特別な家族の一員です。完全数とは、自分以外の約数の和が自分と等しくなる数のことです。（数学者のピタゴラスがつけた名前ですが、彼がなぜ「完全」とつけたかははっきりと分かっていません） 完全数について初めて知ったのは中学１年生のとき、数学が全教科の中で一番苦手だったころです。世の中完璧なものはないんだとよく聞かされていましたが、紙面に６と書いただけで、手品のようにそこに完全なものが現れることに感動を覚えた気がします。 最後に、 数論問題の証明は、細い糸でレースを編むのに似ています。一つ一つの数がその場所にあるべきかそうでないのか確しかめながら、一目一目編んでいきます。自分の知識の量によって一つの問題でも何通りの編み方もできますが、どんなに込み入った公式が使えても、出来上がりが美しくなければそれはただの糸玉です。美しい証明を編み、それを境遇の全く違う人と同じように味わえるのが数論の醍醐味だと思います。やはり数字は雄弁ですね。 「宇宙という書物は数学という言葉でかかれている。」－ガリレオ・ガリレイ]]></description>
+		
+					<wfw:commentRss>https://uoftjn.com/2018/01/19/primenumber/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1340</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 42/48 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+
+Served from: uoftjn.com @ 2022-11-24 23:50:23 by W3 Total Cache
+-->

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Artworks &#8211; University of Toronto Japan Network</title>
+	<atom:link href="https://uoftjn.com/category/community-academia/artworks/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uoftjn.com</link>
+	<description>University of Toronto Japan Network - トロント大学 日本人 バイリンガル 学生 ネットワーク</description>
+	<lastBuildDate>Tue, 31 Mar 2020 02:16:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/uoftjn.com/wp-content/uploads/2018/01/cropped-UTJNlogo-e1515796171340.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Artworks &#8211; University of Toronto Japan Network</title>
+	<link>https://uoftjn.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">140885522</site>	<item>
+		<title>Photo Editing</title>
+		<link>https://uoftjn.com/2020/03/30/photo-editing/</link>
+					<comments>https://uoftjn.com/2020/03/30/photo-editing/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2020 02:09:08 +0000</pubDate>
+				<category><![CDATA[Artworks]]></category>
+		<category><![CDATA[Community Academia]]></category>
+		<category><![CDATA[Passions and Interests]]></category>
+		<guid isPermaLink="false">https://uoftjn.com/?p=3226</guid>
+
+					<description><![CDATA[Written By Mayu Kawada . . . 「趣味は写真を撮ることです。」と言う人は数多くいます。実際、私もその一人です。友達といる時、旅行に行った時、その一瞬を切り取る「写真」は文章よりもずっと雄弁で、大切な思い出を残してくれます。また、インスタグラムやフェイスブックなどソーシャルメディアが発達している今に「写真」は欠かせない要素だと思います。 しかし、私がもっとも楽しみとすることは撮るだけではなく、撮った後の「編集」という作業です。写真は自分が思っている通り簡単に撮れるものではなく、色々な悪条件（天候、光の具合）などにより、実際に自分の目で捉えたものと同じ状態のものを写すのは意外と難しいです。それを修正することにより、より思い出深く、自分好みの一枚に変えることができます。この記事では、あくまで自己流ではありますが、私がどんなアプリを使ってどのように写真を編集しているのかを紹介しようと思います。 まず、編集には『Lightroom』というアプリを使います。 ”Photoshop&#8221;も編集をするのによく使うと言いますが、Lightroomの方がシンプルかつ簡単なので私はこちらを使用しています。 携帯・パソコンどちらからもダウンロードできますが、携帯の場合は無料、パソコンの場合は有料になります。ここでは携帯を使った上で説明していきたいと思います。 編集する写真はこちらです。観光名所の一つ、京都の伏見稲荷で撮った一枚ですが、鳥居が連なっているため、影が多くとても暗いのに気づきます。下の写真を様々な機能を使って、鮮やかな写真に編集していきたいと思います。 写真を編集する時、私は5つのステップ、Crop → Exposure → Contrast →  Saturation → Color の順に修正していきます。特にこだわりはないので順番は入れ替えても大丈夫です！ CROP （切り取り） 写真を切り取り、目立たせたい人物、または物を中心に持ってくる作業です。例の写真では、人物が少し左寄りなので、右部分を動かし左右の幅が大体同じスペースになるように調節します。Lightroomでは切り取りの際、写真を均等にするため下のように線が見えるので是非活用してください。 EXPOSURE （露出） ”Light&#8221;の枠で明るさを調整します。写真が明るい場合は露出を下げ、暗い場合は露出を上げます。この写真の場合、影が理由で浴衣の色や肌の色が大分暗いため露出を上げ、明るさを足します。どのくらい上げるかは自分の感覚を頼りに微調節で決めますが、点を動かし元との違いをはっきり確かめることで丁度良い明るさがより定められるようになります。（写真の場合は+0.92） CONTRAST （コントラスト） 次に行うのが明暗差を変える作業、コントラストです。変え方はとてもシンプルで + を押せば明暗差がよりくっきり、- を押せば柔らかい印象にすることが可能です。光と影を強調すれば、画像の雰囲気をガラッと変えられるため、この昨日は写真を編集する上で必須です！また、主にポートレートや人の写真はコントラストを強くし、背景などの写真の場合はコントラストを低くする場合が多いです。（+40にしたことで後ろ姿がよりはっきりと見えます） SATURATION（彩度） 写真がワントーンであったり、色が薄いと感じた時に役立つ機能です！彩度を上げれば色が濃くなりより鮮やかな写真に仕上がります。しかし、濃すぎると不自然になるので注意してください。彩度を上げた写真が右側になります。（+21)　僅かな差ではありますが、”赤”をより強調させてくれます。 COLOR （色合い） 最後のステップは彩度と同様、色の濃さを調整する作業ですが、写真全体ではなく特定の色を選び濃さ・薄さを決めます。まず下のバーにある”Color&#8221;の標識を選択してください。すると、右上に”Mix&#8221;と書かれてある虹色の輪が見えます。そこを押すと、2枚目の画像のように自ら色を選び、その色の彩度、色合いを編集できます。私は赤の彩度をもう少しだけ強くしたかったので+13上げました。一つの色の強調性を変えることで写真の印象がガラッと変わるので、是非写真の中にある色を調節しながらどのように変化するのか観察してみてください。 以上、5つのステップを踏まえた上で編集した写真のビフォーアフターが下の二枚。色が鮮やかになり、浴衣の柄も綺麗に見える程明るさが増し、写真の印象が変わったと思います。 Before → After 繰り返しになりますが、あくまで自己流のやり方になるので正しい、正しくないはありますが、編集によりこんなにも写真の印象を変えることができる、ということが伝わったらいいなと思います！ 最後に私が編集したお気に入りの写真のビフォーアフターを見せます☺︎ 読んでいただきありがとうございました。 Before → After<a class="moretag" href="https://uoftjn.com/2020/03/30/photo-editing/"> Read more&#8230;</a>]]></description>
+		
+					<wfw:commentRss>https://uoftjn.com/2020/03/30/photo-editing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3226</post-id>	</item>
+		<item>
+		<title>space</title>
+		<link>https://uoftjn.com/2018/11/27/space/</link>
+					<comments>https://uoftjn.com/2018/11/27/space/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 27 Nov 2018 02:37:17 +0000</pubDate>
+				<category><![CDATA[Artworks]]></category>
+		<category><![CDATA[Community Academia]]></category>
+		<guid isPermaLink="false">https://uoftjn.com/?p=2227</guid>
+
+					<description><![CDATA[By Yuri Hirama Theme: Urban Life Sub-theme: Space Scotiabank CONTACT Photography Festival under Annex Photo’s group exhibition (May, 2018) Urban Life をテーマにInstax Square SQ10を使用して撮影した6枚。早朝のYorkvilleを舞台に、都市に溢れかえっている様々なネットワークや情報を、銀色の布で自分を囲むことによって反射させ、周りに惑わされない己の強さと個性を表現。人と人のspace、人と建物のspace、自然と人とのspace 、それらを意識して撮影。]]></description>
+		
+					<wfw:commentRss>https://uoftjn.com/2018/11/27/space/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">2227</post-id>	</item>
+		<item>
+		<title>Alice in wonderland</title>
+		<link>https://uoftjn.com/2018/01/16/aliceinwonderland/</link>
+					<comments>https://uoftjn.com/2018/01/16/aliceinwonderland/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 16 Jan 2018 19:47:43 +0000</pubDate>
+				<category><![CDATA[Artworks]]></category>
+		<category><![CDATA[Community Academia]]></category>
+		<guid isPermaLink="false">https://uoftjn.com/?p=1137</guid>
+
+					<description><![CDATA[By Ayako Naruke 私はほんの趣味でピアノで曲を書いている。学校の全体生徒数が３０人にも満たない小さなカナダの一貫私立学園で、日々があまりに退屈で音楽室に引きこもったのがきっかけだった。たまたま隣の部屋にいたシアタープログラムの先生が、年末に発表する不思議の国のアリスのミュージカルの作曲を担当しないかと声をかけてくれ、頭の中で鳴っていた重なる雑音を形にした。 一番初めに書いた曲は望郷について。当時日本を離れホームシック気味だった私は、不思議の国のアリスが現実の世界に戻るというシーンに自分の望郷の感情を重ね、一曲書き上げた。 とりあえずピアノで音を出してみる。それをデタラメにつなげ、書き出すだけだった。これは初めて書き出した曲。覚えてるだけ録ってみた。 つづく]]></description>
+		
+					<wfw:commentRss>https://uoftjn.com/2018/01/16/aliceinwonderland/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="https://uoftjn.com/wp-content/uploads/2018/01/20180111-155028-0001.mp3" length="1467626" type="audio/mpeg" />
+
+		<post-id xmlns="com-wordpress:feed-additions:1">1137</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 63/71 objects using disk
+Page Caching using disk: enhanced (Page is feed) 
+
+Served from: uoftjn.com @ 2022-11-24 23:49:25 by W3 Total Cache
+-->
